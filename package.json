@@ -1,7 +1,8 @@
 {
-  "name": "junior-test-endpoint",
+  "name": "graphql-test-app",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://myroslavsuprun.github.io/graphql-test-app/",
   "main": "src/main.ts",
   "scripts": {
     "build": "tsc",
