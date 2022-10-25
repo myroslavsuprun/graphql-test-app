@@ -7,7 +7,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/main.js",
-    "dev": "concurrently \"tsc -w\" \"nodemon dist/main.js\""
+    "dev": "concurrently \"tsc -w\" \"nodemon dist/main.js\"",
+    "lint:js": "eslint src/**/*.{ts}"
   },
   "keywords": [],
   "author": "",
